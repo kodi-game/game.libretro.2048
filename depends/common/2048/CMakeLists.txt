@@ -17,13 +17,22 @@ elseif("${CORE_SYSTEM_NAME}" STREQUAL "linux")
 elseif("${CORE_SYSTEM_NAME}" STREQUAL "darwin" OR "${CORE_SYSTEM_NAME}" STREQUAL "osx")
   set(BUILD_COMMAND make -f Makefile.libretro platform=osx ${LIBRETRO_DEBUG})
 elseif("${CORE_SYSTEM_NAME}" STREQUAL "ios")
+  # TODO: Should we use platform=osx?
   message(FATAL_ERROR "${PROJECT_NAME} needs IOS build command in CMakeLists.txt!")
 elseif("${CORE_SYSTEM_NAME}" STREQUAL "android")
-  message(FATAL_ERROR "${PROJECT_NAME} needs Android build command in CMakeLists.txt!")
+  # TODO: This only works for android-armv7
+  set(BUILD_COMMAND make -f Makefile.libretro ${LIBRETRO_DEBUG})
+  # For other architectures, use:
+  # - android-x86_64
+  # - android-x86
+  # - android-armeabi
+  # - android-armeabi_v7a
+  # - android-arm64_v8a
+  # - android-mips
 elseif("${CORE_SYSTEM_NAME}" STREQUAL "rbpi")
-  message(FATAL_ERROR "${PROJECT_NAME} needs RPi build command in CMakeLists.txt!")
+  set(BUILD_COMMAND make -f Makefile.libretro ${LIBRETRO_DEBUG})
 elseif("${CORE_SYSTEM_NAME}" STREQUAL "freebsd")
-  message(FATAL_ERROR "${PROJECT_NAME} needs FreeBSD build command in CMakeLists.txt!")
+  set(BUILD_COMMAND make -f Makefile.libretro platform=bsd ${LIBRETRO_DEBUG})
 else()
   message(FATAL_ERROR "${PROJECT_NAME} - Unknown system: ${CORE_SYSTEM_NAME}")
 endif()
