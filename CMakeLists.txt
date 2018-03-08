@@ -10,3 +10,5 @@ set(2048_CUSTOM_BINARY ${2048_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
 build_addon(${PROJECT_NAME} 2048 "")
+
+include(CPack)
