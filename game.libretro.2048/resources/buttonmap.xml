@@ -9,7 +9,9 @@
     <feature name="down" mapto="RETRO_DEVICE_ID_JOYPAD_DOWN"/>
     <feature name="right" mapto="RETRO_DEVICE_ID_JOYPAD_RIGHT"/>
     <feature name="left" mapto="RETRO_DEVICE_ID_JOYPAD_LEFT"/>
+    <!-- Pause -->
     <feature name="start" mapto="RETRO_DEVICE_ID_JOYPAD_START"/>
-    <feature name="select" mapto="RETRO_DEVICE_ID_JOYPAD_SELECT"/>
+    <!-- New game -->
+    <feature name="back" mapto="RETRO_DEVICE_ID_JOYPAD_SELECT"/>
   </controller>
 </buttonmap>
