@@ -22,6 +22,7 @@ Use your arrow keys to move the tiles. When two tiles with the same number touch
 Created by Gabriele Cirulli. Based on 1024 by Veewo Studio and conceptually similar to Threes by Asher Vollmer.</description>
 		<license>Public Domain</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.2048</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
