@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               2048 (>= 1.0.0.105)
+               libretro-2048 (>= 1.0.0) | 2048 (>= 1.0.0)
 Standards-Version: 3.9.8
 Section: libs
 
