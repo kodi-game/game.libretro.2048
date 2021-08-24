@@ -15,11 +15,8 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">2048 v1.0</summary>
-		<description lang="en_GB">Join the numbers and get to the 2048 tile!
-
-Use your arrow keys to move the tiles. When two tiles with the same number touch, they merge into one!
-
-Created by Gabriele Cirulli. Based on 1024 by Veewo Studio and conceptually similar to Threes by Asher Vollmer.</description>
+		<description lang="en_GB">Join the numbers and get to the 2048 tile![CR][CR]Use your arrow keys to move the tiles. When two tiles with the same number touch, they merge into one!</description>
+		<disclaimer>Created by Gabriele Cirulli. Based on 1024 by Veewo Studio.</disclaimer>
 		<license>Public Domain</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.2048</source>
