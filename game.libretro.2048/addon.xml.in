@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.2048"
 		name="2048"
-		version="1.0.0.121"
+		version="1.0.0.122"
 		provider-name="Gabriele Cirulli">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -12,6 +12,7 @@
 		<extensions></extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>true</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>Public Domain</license>
