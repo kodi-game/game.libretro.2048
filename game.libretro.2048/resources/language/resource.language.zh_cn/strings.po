@@ -24,3 +24,7 @@ msgstr ""
 msgctxt "Addon Description"
 msgid "Join the numbers and get to the 2048 tile![CR][CR]Use your arrow keys to move the tiles. When two tiles with the same number touch, they merge into one!"
 msgstr "加入数字，进入2048！[CR][CR]使用箭头键移动瓷片。当两块数字相同的瓷片接触时，它们合并为一块！"
+
+msgctxt "Addon Disclaimer"
+msgid "Created by Gabriele Cirulli. Based on 1024 by Veewo Studio."
+msgstr ""
