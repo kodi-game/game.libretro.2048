@@ -4,11 +4,13 @@
 # 2048
 
 ### Description
+
 Join the numbers and get to the 2048 tile!
 
 Use your arrow keys to move the tiles. When two tiles with the same number touch, they merge into one!
 
 ### License
+
 Public Domain
 
 ### Icon
@@ -22,13 +24,9 @@ Public Domain
 ### Screenshots
 
 ![Screenshot](game.libretro.2048/resources/screenshot-01.jpg)
-
 ![Screenshot](game.libretro.2048/resources/screenshot-02.jpg)
-
 ![Screenshot](game.libretro.2048/resources/screenshot-03.jpg)
-
 
 ### Disclaimer
 
 *Created by Gabriele Cirulli. Based on 1024 by Veewo Studio.*
-
