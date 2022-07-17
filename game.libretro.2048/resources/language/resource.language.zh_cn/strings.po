@@ -28,3 +28,15 @@ msgstr "加入数字，进入2048！[CR][CR]使用箭头键移动瓷片。当两
 msgctxt "Addon Disclaimer"
 msgid "Created by Gabriele Cirulli. Based on 1024 by Veewo Studio."
 msgstr "由 Gabriele Cirulli 创作。基于 Veewo Studio 的 1024。"
+
+msgctxt "#30000"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Theme (restart)"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Framerate (restart)"
+msgstr ""

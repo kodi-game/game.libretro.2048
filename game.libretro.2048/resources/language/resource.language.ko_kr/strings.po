@@ -28,3 +28,15 @@ msgstr "숫자를 결합하고 2048 타일에 도달하세요![CR][CR]화살표 
 msgctxt "Addon Disclaimer"
 msgid "Created by Gabriele Cirulli. Based on 1024 by Veewo Studio."
 msgstr "가브리엘 시룰리(Gabriele Cirulli)가 만들었습니다. Veewo Studio의 1024를 기반으로 합니다."
+
+msgctxt "#30000"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Theme (restart)"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Framerate (restart)"
+msgstr ""

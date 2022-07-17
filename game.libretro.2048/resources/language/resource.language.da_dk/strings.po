@@ -28,3 +28,15 @@ msgstr "Deltag i tallene og kom til 2048-flisen![CR][CR]Brug piletasterne til at
 msgctxt "Addon Disclaimer"
 msgid "Created by Gabriele Cirulli. Based on 1024 by Veewo Studio."
 msgstr "Skabt af Gabriele Cirulli. Baseret på 1024 af Veewo Studio."
+
+msgctxt "#30000"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Theme (restart)"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Framerate (restart)"
+msgstr ""

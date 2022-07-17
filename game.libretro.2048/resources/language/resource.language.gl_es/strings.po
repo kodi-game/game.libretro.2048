@@ -27,3 +27,15 @@ msgstr ""
 msgctxt "Addon Disclaimer"
 msgid "Created by Gabriele Cirulli. Based on 1024 by Veewo Studio."
 msgstr ""
+
+msgctxt "#30000"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Theme (restart)"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Framerate (restart)"
+msgstr ""
