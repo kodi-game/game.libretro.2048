@@ -15,17 +15,17 @@ Public Domain
 
 ### Icon
 
-![2048 icon](game.libretro.2048/resources/icon.png)
+![Icon](game.libretro.2048/resources/icon.png)
 
 ### Fanart
 
-![2048 fanart](game.libretro.2048/resources/fanart.jpg)
+![Fanart](game.libretro.2048/resources/fanart.jpg)
 
 ### Screenshots
 
-![2048 screenshot](game.libretro.2048/resources/screenshot-01.jpg)
-![2048 screenshot](game.libretro.2048/resources/screenshot-02.jpg)
-![2048 screenshot](game.libretro.2048/resources/screenshot-03.jpg)
+![Screenshot](game.libretro.2048/resources/screenshot-01.jpg)
+![Screenshot](game.libretro.2048/resources/screenshot-02.jpg)
+![Screenshot](game.libretro.2048/resources/screenshot-03.jpg)
 
 ### Disclaimer
 
