@@ -39,3 +39,11 @@ msgstr ""
 msgctxt "#30002"
 msgid "Framerate (restart)"
 msgstr ""
+
+msgctxt "#30500"
+msgid "Pause"
+msgstr ""
+
+msgctxt "#30501"
+msgid "New game"
+msgstr ""
