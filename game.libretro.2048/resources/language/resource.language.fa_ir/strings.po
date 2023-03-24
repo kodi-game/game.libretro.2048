@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
 msgctxt "Addon Summary"
-msgid "2048 v1.0"
+msgid "2048"
 msgstr ""
 
 msgctxt "Addon Description"
