@@ -26,6 +26,7 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">2048</summary>
+		<summary lang="es_ES">2048</summary>
 		<description lang="da_DK">Deltag i tallene og kom til 2048-flisen![CR][CR]Brug piletasterne til at flytte fliserne. Når to fliser med samme nummer rører hinanden, smelter de sammen til én!</description>
 		<description lang="de_DE">Die Zahlen verbinden und das 2048er Feld erreichen! Die Pfeiltasten dienen zum Verschieben der Felder. Wenn sich zwei Spielsteine mit der gleichen Zahl berühren, verschmelzen sie zu einem!</description>
 		<description lang="en_GB">Join the numbers and get to the 2048 tile![CR][CR]Use your arrow keys to move the tiles. When two tiles with the same number touch, they merge into one!</description>
