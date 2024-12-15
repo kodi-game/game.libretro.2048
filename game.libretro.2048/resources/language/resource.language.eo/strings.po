@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Created by Gabriele Cirulli. Based on 1024 by Veewo Studio."
 msgstr "Kreita de Gabriele Cirkuli. Bazita Sur 1024 de Veewo Studio."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Agordoj"
-
 msgctxt "#30001"
 msgid "Theme (restart)"
 msgstr "Etoso (restartigu)"
@@ -40,3 +36,7 @@ msgstr "Etoso (restartigu)"
 msgctxt "#30002"
 msgid "Framerate (restart)"
 msgstr "Filmer-rapido (restartigu)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Agordoj"

@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Created by Gabriele Cirulli. Based on 1024 by Veewo Studio."
 msgstr "由 Gabriele Cirulli 创作。基于 Veewo Studio 的 1024。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Theme (restart)"
 msgstr "主题曲（重启）"
@@ -40,3 +36,7 @@ msgstr "主题曲（重启）"
 msgctxt "#30002"
 msgid "Framerate (restart)"
 msgstr "帧率（重启）"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
