@@ -30,6 +30,7 @@
 		<summary lang="eo">2048</summary>
 		<summary lang="es_ES">2048</summary>
 		<summary lang="fr_FR">2048</summary>
+		<summary lang="ga">2048</summary>
 		<summary lang="it_IT">2048</summary>
 		<summary lang="nl_NL">2048</summary>
 		<summary lang="ru_RU">2048</summary>
@@ -41,6 +42,7 @@
 		<description lang="eo">Kupli la numerojn kaj atingi la 2048-kahelon![CR][CR]Uzu viajn sagoklavojn por movi la kahelojn. Kiam du kaheloj kun la sama numero tuŝas sin, ili unuiĝas!</description>
 		<description lang="es_ES">Une los números y llega a la ficha 2048![CR][CR]Usa las flechas del teclado para mover las fichas. Cuando dos fichas con el mismo número se tocan, ¡Se fusionan en una!</description>
 		<description lang="fr_FR">Relier les chiffres et accéder à la tuile 2048 ![CR][CR]Utiliser les touches fléchées pour déplacer les tuiles. Lorsque deux tuiles portant le même numéro se touchent, elles fusionnent en une seule !</description>
+		<description lang="ga">Ceangail na huimhreacha agus faigh an tíl 2048![CR][CR]Úsáid do chuid saighead chun na tíleanna a bhogadh. Nuair a dhéanann dhá thíl leis an uimhir chéanna teagmháil lena chéile, comhcheanglaíonn siad ina gceann amháin!</description>
 		<description lang="it_IT">Unisci i numeri e raggiungi la tessera 2048![CR][CR]Usa i tasti freccia per spostare le tessere. Quando due tessere con lo stesso numero si toccano, si fondono in una!</description>
 		<description lang="ko_KR">숫자를 결합하고 2048 타일에 도달하세요![CR][CR]화살표 키를 사용하여 타일을 이동하세요. 같은 숫자의 타일 두 개가 닿으면 하나로 합쳐집니다!</description>
 		<description lang="nl_NL">Verbind de cijfers en ga naar de tegel van 2048![CR][CR]Gebruik je pijltjestoetsen om de tegels te verplaatsen. Wanneer twee tegels met hetzelfde nummer elkaar raken, worden ze samengevoegd tot één!</description>
@@ -53,6 +55,7 @@
 		<disclaimer lang="eo">Kreita de Gabriele Cirkuli. Bazita Sur 1024 de Veewo Studio.</disclaimer>
 		<disclaimer lang="es_ES">Creado por Gabriele Cirulli. Basado en 1024 de Veewo Studio.</disclaimer>
 		<disclaimer lang="fr_FR">Créé par Gabriel Cirulli. Basé sur 1024 par Veewo Studio.</disclaimer>
+		<disclaimer lang="ga">Cruthaithe ag Gabriele Cirulli. Bunaithe ar 1024 le Veewo Studio.</disclaimer>
 		<disclaimer lang="it_IT">Creato da Gabriele Cirulli. Basato su 1024 di Veewo Studio.</disclaimer>
 		<disclaimer lang="ko_KR">가브리엘 시룰리(Gabriele Cirulli)가 만들었습니다. Veewo Studio의 1024를 기반으로 합니다.</disclaimer>
 		<disclaimer lang="nl_NL">Gemaakt door Gabriele Cirulli. Gebaseerd op 1024 van Veewo Studio.</disclaimer>
