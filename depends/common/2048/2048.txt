@@ -1,1 +1,1 @@
-2048 https://github.com/libretro/libretro-2048/archive/86e02d3c2dd76858db7370f5df1ccfc33b3abee1.tar.gz
+2048 https://github.com/libretro/libretro-2048/archive/e70c3f82d2b861c64943aaff7fcc29a63013997d.tar.gz
