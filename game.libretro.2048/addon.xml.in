@@ -26,6 +26,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="cs_CZ">2048</summary>
 		<summary lang="da_DK">2048</summary>
 		<summary lang="en_GB">2048</summary>
 		<summary lang="eo">2048</summary>
@@ -37,6 +38,7 @@
 		<summary lang="ru_RU">2048</summary>
 		<summary lang="sv_SE">2048</summary>
 		<summary lang="zh_CN">2048</summary>
+		<description lang="cs_CZ">Spojujte čísla a dostaňte se k dlaždici 2048![CR][CR]Dlaždice posouvejte pomocí kláves se šipkami. Když se dotknou dvě dlaždice se stejným číslem, sloučí se v jednu!</description>
 		<description lang="da_DK">Deltag i tallene og kom til 2048-flisen![CR][CR]Brug piletasterne til at flytte fliserne. Når to fliser med samme nummer rører hinanden, smelter de sammen til én!</description>
 		<description lang="de_DE">Die Zahlen verbinden und das 2048er Feld erreichen! Die Pfeiltasten dienen zum Verschieben der Felder. Wenn sich zwei Spielsteine mit der gleichen Zahl berühren, verschmelzen sie zu einem!</description>
 		<description lang="en_GB">Join the numbers and get to the 2048 tile![CR][CR]Use your arrow keys to move the tiles. When two tiles with the same number touch, they merge into one!</description>
@@ -50,6 +52,7 @@
 		<description lang="ru_RU">Соединяйте числа и доберитесь до плитки с числом 2048![CR][CR]Используйте клавиши со стрелками для перемещения плиток. Когда две плитки с одинаковыми числами соприкасаются, они сливаются в одну!</description>
 		<description lang="sv_SE">Sammanfoga siffrorna och ta dig till 2048-brickan![CR][CR]Använd piltangenterna för att flytta brickorna. När två brickor med samma nummer rör vid varandra smälter de samman till en!</description>
 		<description lang="zh_CN">加入数字，进入2048！[CR][CR]使用箭头键移动瓷片。当两块数字相同的瓷片接触时，它们合并为一块！</description>
+		<disclaimer lang="cs_CZ">Vytvořil Gabriele Cirulli. Vychází z 1024 od Veewo Studio.</disclaimer>
 		<disclaimer lang="da_DK">Skabt af Gabriele Cirulli. Baseret på 1024 af Veewo Studio.</disclaimer>
 		<disclaimer lang="de_DE">Erstellt von Gabriele Cirulli. Basierend auf 1024 von Veewo Studio.</disclaimer>
 		<disclaimer lang="en_GB">Created by Gabriele Cirulli. Based on 1024 by Veewo Studio.</disclaimer>
